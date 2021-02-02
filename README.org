@@ -5,7 +5,7 @@ As you have undoubtedly already figured out, Chemical Engineering is a demanding
 Syllabus available [[./syllabus.org][on the web]] or as a [[./syllabus.org][pdf]]
 
 * Format
-The course will be delivered virtually. We will use the same [[https://notredame.zoom.us/j/91572218330?pwd=WFFvRW9DU3UvMHhXUTBwQUNIZzd0dz09][Zoom link]] throughout the semester. If it is helpful, you can consult this [[https://calendar.google.com/calendar/u/0?cid=Y183NG02cDJnYWQ2NDQ4OTUzZGthaHJia2Nnc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t][Google calendar]].  Weeks 1-3 will focus on professional skill development. Weeks 4-14 will involve a series of virtual panel discussions with alumni of the department. Each panel will focus on one sector, such as pharmaceuticals, energy, foods, personal care, \ldots. 
+The course will be delivered virtually. We will use the same [[https://notredame.zoom.us/j/91572218330?pwd=WFFvRW9DU3UvMHhXUTBwQUNIZzd0dz09][Zoom link]] throughout the semester. If it is helpful, you can consult this [[https://calendar.google.com/calendar/u/0?cid=Y183NG02cDJnYWQ2NDQ4OTUzZGthaHJia2Nnc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t][Google calendar]].  Weeks 1-3 will focus on professional skill development. Weeks 4-14 will involve a series of virtual panel discussions with alumni of the department. Each panel will focus on one sector, such as pharmaceuticals, energy, foods, personal care, \ldots. A group of students will introduce the topic and interview the visitors. 
 
 * Schedule
 | February 5  | Introduction/Resumes                   | Jared Mrozinske, Career Center |
@@ -42,6 +42,6 @@ The course will be delivered virtually. We will use the same [[https://notredame
 6. Say thank you...by unmuting yourself or following up with the alumni/speaker in an email.
 
 
-Not that you need it, but if you care, [[(http://rogerdudler.github.io/git-guide/][Introduction to git]]
+Not that you need it, but if you care, [[http://rogerdudler.github.io/git-guide/][Introduction to git]]
 
 
