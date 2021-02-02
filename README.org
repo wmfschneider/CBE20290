@@ -8,8 +8,8 @@ Syllabus available [[./syllabus.org][on the web]] or as a [[./syllabus.org][pdf]
 The course will be delivered virtually. We will use the same [[https://notredame.zoom.us/j/91572218330?pwd=WFFvRW9DU3UvMHhXUTBwQUNIZzd0dz09][Zoom link]] throughout the semester. If it is helpful, you can consult this [[https://calendar.google.com/calendar/u/0?cid=Y183NG02cDJnYWQ2NDQ4OTUzZGthaHJia2Nnc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t][Google calendar]].  Weeks 1-3 will focus on professional skill development. Weeks 4-14 will involve a series of virtual panel discussions with alumni of the department. Each panel will focus on one sector, such as pharmaceuticals, energy, foods, personal care, \ldots. A group of students will introduce the topic and interview the visitors. 
 
 * Schedule
-| February 5  | Introduction/Resumes                   | Jared Mrozinske, Career Center |
-| February 12 | Handshake                              | Jared Mrozinske, Career Center |
+| February 5  | Introduction/Resumes/Handshake         | Jared Mrozinske, Career Center |
+| February 12 | Interviewing                           | Jared Mrozinske, Career Center |
 | February 19 | LinkedIn/Networking                    | Melanie Sanchez                |
 | February 26 | Alumni Panel: Pharmaceuticals          | student interviewer team       |
 | March 5     | Alumni Panel: Consumer/personal goods  | student interviewer team       |
@@ -28,9 +28,9 @@ The course will be delivered virtually. We will use the same [[https://notredame
 
 
 * Assignments
-| Due February 5  | *Bring a draft resume to class*   |
-| Due February 12 | Career Reflection assignment  [[./Assignments/Assignment1.pdf][pdf]] |
-| Due February 19 | Interview questions               |
+| Due February 5  | *Bring a draft resume to class* |     |
+| Due February 12 | [[https://forms.gle/SQ2EKfksg5Z5b3Zs5][Career Reflection]] assignment    | [[./Assignments/Assignment1.pdf][pdf]] |
+| Due February 19 | Interview questions             |     |
 
 
 * Professional courtesy
