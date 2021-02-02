@@ -30,6 +30,7 @@ The course will be delivered virtually. We will use the same [[https://notredame
 * Assignments
 | Due February 5  | *Bring a draft resume to class*   |
 | Due February 12 | Career Reflection assignment  [[./Assignments/Assignment1.pdf][pdf]] |
+| Due February 19 | Interview questions               |
 
 
 * Professional courtesy
@@ -40,8 +41,6 @@ The course will be delivered virtually. We will use the same [[https://notredame
 5. You can ask questions through the chat or by unmuting yourself. Participate!
 6. Say thank you...by unmuting yourself or following up with the alumni/speaker in an email.
 
-
-Panopto recordings of lectures available [here](https://notredame.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0cc6b4f0-2e6e-4edc-8d74-ab7400ec2d4f)
 
 Not that you need it, but if you care, [[(http://rogerdudler.github.io/git-guide/][Introduction to git]]
 
