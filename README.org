@@ -1,0 +1,50 @@
+* CBE20290 - Career Choices for Chemical Engineers
+
+As you have undoubtedly already figured out, Chemical Engineering is a demanding major. Your courses will prepare you to solve complex technical problems, to work in teams, and to communicate effectively.  Those skills can take your career in many different directions. This course is designed to expose you to some of those many options and to provide some of the professional skills needed to pursue them.
+
+Syllabus available [[./syllabus.org][here]]
+
+* Format
+The course will be delivered virtually. We will use the same [[https://notredame.zoom.us/j/91572218330?pwd=WFFvRW9DU3UvMHhXUTBwQUNIZzd0dz09][Zoom link]] throughout the semester. If it is helpful, you can consult this [[https://calendar.google.com/calendar/u/0?cid=Y183NG02cDJnYWQ2NDQ4OTUzZGthaHJia2Nnc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t][Google calendar]].  Weeks 1-3 will focus on professional skill development. Weeks 4-14 will involve a series of virtual panel discussions with alumni of the department. Each panel will focus on one sector, such as pharmaceuticals, energy, foods, personal care, \ldots. 
+
+* Schedule
+| February 5  | Introduction/Resumes                   | Jared Mrozinske, Career Center |
+| February 12 | Handshake                              | Jared Mrozinske, Career Center |
+| February 19 | LinkedIn/Networking                    | Melanie Sanchez                |
+| February 26 | Alumni Panel: Pharmaceuticals          | student interviewer team       |
+| March 5     | Alumni Panel: Consumer/personal goods  | student interviewer team       |
+| March 12    | Alumni Panel: Biotechnology            | student interviewer team       |
+| March 19    | Alumni Panel: Energy & Renewables      | student interviewer team       |
+| March 26    | Alumni Panel: Oil & Gas                | student interviewer team       |
+| April 2     | Good Friday                            |                                |
+| April 9     | Alumni Panel: Chemicals                | student interviewer team       |
+| April 16    | Alumni Panel: Foods                    | student interviewer team       |
+| April 23    | Alumni Panel: Professional/Grad school | student interviewer team       |
+| April 30    | Alumni Panel: Information technology   | student interviewer team       |
+| May 7       | Alumni Panel: Entrepeneurship          | student interviewer team       |
+| May 14      | wrap-up                                |                                |
+
+[[https://calendar.google.com/calendar/u/0?cid=Y183NG02cDJnYWQ2NDQ4OTUzZGthaHJia2Nnc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t][Google course calendar]] 
+
+Panopto recordings of lecture
+
+
+* Assignments
+| Due February 5  | *Bring a draft resume to class* |
+| Due February 12 | Assignment 1                    |
+| Due May 14      | Assignment x                    |
+
+* Professional courtesy
+1. Arrive at each zoom session on time,  early if possible.
+2. Turn your camera on. Make sure you are sitting up and acting professionally.
+3. Dress appropriately. 
+4. Research the organization, the presenters’ backgrounds, or industries. Be prepared!
+5. You can ask questions through the chat or by unmuting yourself. Participate!
+6. Say thank you...by unmuting yourself or following up with the alumni/speaker in an email.
+
+
+Panopto recordings of lectures available [here](https://notredame.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0cc6b4f0-2e6e-4edc-8d74-ab7400ec2d4f)
+
+Not that you need it, but if you care, [[(http://rogerdudler.github.io/git-guide/][Introduction to git]]
+
+
