@@ -77,8 +77,7 @@ Place your introductory slides in the class [[https://drive.google.com/drive/fol
 ** Graciousness
 Remember that the alumni are knowledgeable and eager to help you. Remember too that they are taking valuable time out of their day. Be well prepared, dress appropriately, be courteous, and be grateful. 
 
-
-*  Panel Discussion Schedule :noexport:
+#+BEGIN_COMMENT
 
 |-------------+------------------+-------------------------+------------------------+-----------------|
 | Date        | Topic            |                         | Panelists              |                 |
@@ -144,4 +143,7 @@ A: I spent a lot of time talking with professors, alumnus, and professionals in 
 
 Please write out the transcript in this format, which will later be shared with the class as review. It is also important to note that the questions used for the script can come from the compilation of questions students have come up with, which has been provided to you. 
 
+
+replace. Tab to end.
+#+END_COMMENT
 
