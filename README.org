@@ -32,6 +32,7 @@ The course will be delivered virtually. We will use the same [[https://notredame
 | Due February 5  | *Bring a draft resume to class* |     |
 | Due February 12 | [[https://forms.gle/SQ2EKfksg5Z5b3Zs5][Career Reflection]] assignment    | [[./Assignments/Assignment1.pdf][pdf]] |
 | Due February 17 | [[https://forms.gle/2avQwET3GyL3keyEA][Interview questions]]             |     |
+| Rolling basis   | [[./Assignments/Interview.org][Career Panel]]                    | [[./Assignments/Interview.pdf][pdf]] |
 
 
 * Professional courtesy
@@ -43,6 +44,5 @@ The course will be delivered virtually. We will use the same [[https://notredame
 6. Say thank you...by unmuting yourself or following up with the alumni/speaker in an email.
 
 
-Not that you need it, but if you care, [[http://rogerdudler.github.io/git-guide/][Introduction to git]]
-
+Not that you need it, but if you care, [[http://rogerdudler.github.io/git-guide/][Introduction to git]].
 

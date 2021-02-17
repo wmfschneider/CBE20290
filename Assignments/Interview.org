@@ -1,11 +1,12 @@
 #+BEGIN_OPTIONS
 #+AUTHOR: William F. Schneider
-#+TITLE: CBE 20290 Assignment 1
+#+TITLE: CBE 20290 Career Panel
 #+EMAIL: wschneider@nd.edu
 #+LATEX_CLASS_OPTIONS: [11pt]
 #+LATEX_HEADER:\usepackage[left=1in, right=1in, top=1in, bottom=1in, nohead]{geometry}
 #+LATEX_HEADER:\geometry{margin=1.0in}
 #+LATEX_HEADER:\usepackage{amsmath}
+#+LATEX_HEADER:\usepackage{parskip}
 #+LATEX_HEADER:\usepackage{graphicx}
 #+LATEX_HEADER:\usepackage{framed,color}
 #+LATEX_HEADER:\usepackage{epstopdf}
@@ -24,8 +25,8 @@
 #+LATEX_HEADER:\cfoot{\copyright\ 2021 W.\ F.\ Schneider}
 #+LATEX_HEADER:\rfoot{\thepage}
 #+LATEX_HEADER:\chead{\bf{Career Choices for Chemical Engineers (CBE 20290)\vspace{12pt}}}
-#+LATEX_HEADER:\lhead{\bf{Assignment 1}}
-#+LATEX_HEADER:\rhead{\bf{Due February 12, 2021}}
+#+LATEX_HEADER:\lhead{\bf{Career Panels}}
+#+LATEX_HEADER:\rhead{\bf{February 19, 2021}}
 #+LATEX_HEADER:\usepackage{titlesec}
 #+LATEX_HEADER:\titlespacing*{\section}
 #+LATEX_HEADER:{0pt}{0.6\baselineskip}{0.2\baselineskip}
@@ -38,16 +39,109 @@
 #+OPTIONS: H:3 num:3
 #+OPTIONS: ':t
 #+END_OPTIONS
-* Personal reflection
-Take 30 minutes and write a brief reflection on your career goals. Consider (as thought starters) the following questions:
 
-1. What most inspires and motivates me?
-2. What is important to me in a career?
-3. What do I want to be remembered for?
-4. What career direction(s) do I see myself taking? 
-5. What first steps would I like to take towards that career?
+** Organization
+The weekly alumni career panels are intended to expose you to the diverse career paths taken by chemical engineers and  the diverse fields in which their skills can be applied in. They also provide an opportunity to practice your presentation and interviewing skills through interactions with alumni and current professionals.
 
-Name your reflection *netid-reflection.pdf* and upload using the [[https://forms.gle/SQ2EKfksg5Z5b3Zs5][google form]] shared to you.
+Each session, one group of 5-6 students will be responsible for managing the panel discussion, including introductions, questions and answers, and written summary. The topical areas, panelists, and your assigned groups  are available on a  [[https://docs.google.com/spreadsheets/d/1IFn56_q2D8sfBdZx9Idm4Pvy1nI8MEQJUamCiiHcFkE/edit?usp=sharing][Google sheet]] accessible from your ND account.  The Google sheet contains the email addresses and LinkedIn links of all the panelists.
 
-* Career preferences
-Identify three of our planned topical areas that most interest you. Complete on the shared [[https://forms.gle/SQ2EKfksg5Z5b3Zs5][google form]].
+** Panel agenda and tasks:
+1. Introduce yourselves
+2. Present a brief (1-2  minute, 1-2 slides) summary of the topical area
+3. Present a brief (30 seconds, 1 slide) introduction of each panelist
+4. Interview and moderate discussion with the panelists 
+5. Write a brief summary of the panel discussion
+
+To do this well will take some preparation. I suggest the team meet to set some rolls and responsibilities for the Introduction and final summary. Agree on individual roles:
+- Background on the field 
+- Introduce speaker 1 
+- Introduce speaker 2
+- Introduce speaker 3
+- Introduce speaker 4
+- Timer/wrap-up/thank you
+
+And work together on group roles:
+- Questions/interview format
+- Scribe/summary
+- Post-panel thank you to panelists
+
+You will want to contact the panelists ahead of time to obtain some biographical information, and the group will need to do research to describe the nature of the field (what services/produced does it provide, what is the size of the area, who are major players).
+
+The group will also want to prepare a set of questions, or script, to guide the discussion with the speakers. You can draw from the [[https://docs.google.com/document/d/1eUqnfeW1NTqqTqEzBxjCo6u20dFwN1kRAMNXPG9ioL0/edit?usp=sharing][questions you prepared in Assignment 2]]. The panel time is short, so think carefully about the topics you would like to cover and who you will ask the questions to. Use good interviewing skills. Each group member should  contribute to the interviewing. 
+
+The group will take notes during the panel discussion and use them to annotate the prepared questions into a summary.
+
+** Logistics
+Place your introductory slides in the class [[https://drive.google.com/drive/folders/1tC6bTIxFh_fRfUk-FdwIHLAv8rMCMje3?usp=sharing][Google folder]] by 8 am Friday of your panel session. Schneider will share those slides during the panel. Place your summary into the same folder by 8 am Monday following your session. 
+
+** Graciousness
+Remember that the alumni are knowledgeable and eager to help you. Remember too that they are taking valuable time out of their day. Be well prepared, dress appropriately, be courteous, and be grateful. 
+
+
+*  Panel Discussion Schedule :noexport:
+
+|-------------+------------------+-------------------------+------------------------+-----------------|
+| Date        | Topic            |                         | Panelists              |                 |
+|-------------+------------------+-------------------------+------------------------+-----------------|
+| 26-Feb-2021 | Pharmaceuticals  | [[mailto:smckenzi16@gmail.com][Shane McKenzie]]          | [[mailto:rose-marie.mazanek@lilly.com][Rose-Marie Mazanek]]     | [[mailto:sgpk242@gmail.com][Sean Keenan]]     |
+|             |                  | [[mailto:Catherine.drummond@takeda.com][Catherine Drummond]]      |                        |                 |
+|             |                  |                         |                        |                 |
+| 5-Mar-2021  | Consumer/health  | [[mailto:cackley713@gmail.com][Catherine Ackley]]        | [[mailto:delacoterac@gmail.com][Cristian de la Cotera]]  | [[mailto:Aminnis1@gmail.com][Alie Minnis]]     |
+|             | products         | [[mailto:mshakall@gmail.com][Mirian Shakalli]]         |                        |                 |
+|             |                  |                         |                        |                 |
+| 12-Mar-2021 | Biotechnology    | Thomas Eyster           | Adam Farchone          | Jessica Freeman |
+|             |                  | Andrew Ayoob            |                        |                 |
+|             |                  |                         |                        |                 |
+| 19-Mar-2021 | Energy &         | Connor Tomshack         | Nick O'Neill           | Jeff Ulrich     |
+|             | Renewables       | Timothy Politano        |                        |                 |
+|             |                  |                         |                        |                 |
+| 26-Mar-2021 | Oil & Gas        | Marcella Smith          | Laura Stangler Sigward | David Zadigian  |
+|             |                  | Allison Hamman          |                        |                 |
+|             |                  |                         |                        |                 |
+| 9-Apr-2021  | Chemicals        | Clare Tennant           | Gabriel Janer          | Luis Lazalde    |
+|             |                  | Caitlin O'Connell       |                        |                 |
+|             |                  |                         |                        |                 |
+| 16-Apr-2021 | Foods            | Rocio Miramontes Hamlin | Alexander Augugliaro   | Amy Rizzo       |
+|             |                  |                         |                        |                 |
+|             |                  |                         |                        |                 |
+| 23-Apr-2021 | Professional/    | Hunter Smith            | Michael Comuniello     | Adam Mallette   |
+|             | Grad School      |                         |                        |                 |
+|             |                  |                         |                        |                 |
+| 30-Apr-2021 | Information Tech | Clay Elmore             | Ross Verploegh         | Matthew High    |
+|             |                  |                         |                        |                 |
+|             |                  |                         |                        |                 |
+| 7-May-2021  | Entrepreneurship | Gary Nijak              | Jeffrey Racho          | Ed Redden       |
+|             |                  |                         |                        |                 |
+|             |                  |                         |                        |                 |
+|-------------+------------------+-------------------------+------------------------+-----------------|
+
+
+
+The first  
+
+
+The objective of this course is to become familiar with multiple different fields of employment for post graduation.  I will assign 5-6 students to a group based on your collective shared interests. Each week, there will be a panel discussion with 4 Alumnis from the Notre Dame Chemical Engineering department. Each group will be responsible for a panel one week. During your group's week, you will be responsible for drafting questions, introducing the speakers, and making a transcript of the answers. Below you will find a breakdown of the roles. 
+
+Students: 
+Background on the field 
+Introduce speaker 1 
+Introduce speaker 2
+Introduce speaker 3
+Introduce speaker 4
+Possible sixth group member will provide additional information as needed 
+
+This section of the project is individual, where each member is in charge of a different aspect of the introduction to the panel. The student responsible for background on the field will do a short review of what the field entails that the speakers are coming from. This can include descriptions, explanations, and options that you have researched. The students responsible for introducing the various speakers will be in charge of contacting the panelists and gathering some basic information on who they are, when they graduated from Notre Dame, what their current field of employment is, etc. Please note that each student should speak for around 30 seconds in providing background information or introducing a speaker. 
+
+All students in the group must work together to provide the following: 
+A script of questions to ask the panel members 
+All group members must equally participate in asking questions 
+A written transcript of the panel 
+Please write this in a Q/A format 
+
+Example: 
+Q: What resource did you find most useful in narrowing your career options? 
+A: I spent a lot of time talking with professors, alumnus, and professionals in the field to discern where my interests were. 
+
+Please write out the transcript in this format, which will later be shared with the class as review. It is also important to note that the questions used for the script can come from the compilation of questions students have come up with, which has been provided to you. 
+
+
