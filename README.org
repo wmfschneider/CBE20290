@@ -11,7 +11,7 @@ The course will be delivered virtually. We will use the same [[https://notredame
 | February 5  | Introduction/Resumes/Handshake         | Jared Mrozinske, Career Center |
 |             | [[./Resources/Career-Center-Resources.pdf][Career Center Resources]]                |                                |
 | February 12 | Interviewing                           | Jared Mrozinske, Career Center |
-| February 19 | LinkedIn/Networking                    | Melanie Sanchez                |
+| February 19 | [[./Resources/Sanchez-Jones-Networking.pdf][LinkedIn/Networking]]                    | Melanie Sanchez-Jones          |
 | February 26 | Alumni Panel: Pharmaceuticals          | student interviewer team       |
 | March 5     | Alumni Panel: Consumer/personal goods  | student interviewer team       |
 | March 12    | Alumni Panel: Biotechnology            | student interviewer team       |
