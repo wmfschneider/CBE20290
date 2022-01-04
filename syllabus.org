@@ -59,7 +59,7 @@ As you have undoubtedly already figured out, Chemical Engineering is a demanding
 3. to develop  professional networking and presentation skills that will help get you where you want to go
 
 * Format
-The course will be conducted in person in 136 DBRT.  Weeks 1-2 will focus on professional skill development. Weeks 3-14 will involve a series of virtual panel discussions with alumni of the department. Each panel will focus on one sector, such as pharmaceuticals, energy, foods, personal care, \ldots. A group of students will introduce the topic and interview the visitors. 
+The course will be conducted in person in 136 DBRT.  Weeks 1-2 will focus on professional skill development. Weeks 3-14 will involve a series of virtual panel discussions with alumni of the department. Each panel will focus on one sector, such as pharmaceuticals, energy, foods, personal care, \ldots. A group of students (you!) will introduce the topic and interview the visitors. Each of you will have a chance to participate in one of the panels.
 
 \noindent Shared course materials available on [[https://drive.google.com/drive/folders/12p1B5icXV4FetwMoPTR7hkxTTPMj53qA?usp=sharing][Google Drive]] and on [[https://github.com/wmfschneider/CBE20290][GitHub]].
 
