@@ -22,11 +22,11 @@
 #+LATEX_HEADER:\renewcommand{\headrulewidth}{0.5pt}
 #+LATEX_HEADER:\renewcommand{\footrulewidth}{0.5pt}
 #+LATEX_HEADER:\lfoot{\today}
-#+LATEX_HEADER:\cfoot{\copyright\ 2021 W.\ F.\ Schneider}
+#+LATEX_HEADER:\cfoot{\copyright\ 2022 W.\ F.\ Schneider}
 #+LATEX_HEADER:\rfoot{\thepage}
 #+LATEX_HEADER:\chead{\bf{Career Choices for Chemical Engineers (CBE 20290)\vspace{12pt}}}
 #+LATEX_HEADER:\lhead{\bf{Career Panels}}
-#+LATEX_HEADER:\rhead{\bf{February 19, 2021}}
+#+LATEX_HEADER:\rhead{\bf{January 17, 2022}}
 #+LATEX_HEADER:\usepackage{titlesec}
 #+LATEX_HEADER:\titlespacing*{\section}
 #+LATEX_HEADER:{0pt}{0.6\baselineskip}{0.2\baselineskip}
@@ -43,7 +43,7 @@
 ** Organization
 The weekly alumni career panels are intended to expose you to the diverse career paths taken by chemical engineers and  the diverse fields in which their skills can be applied in. They also provide an opportunity to practice your presentation and interviewing skills through interactions with alumni and current professionals.
 
-Each session, one group of 5-6 students will be responsible for managing the panel discussion, including introductions, questions and answers, and written summary. The topical areas, panelists, and your assigned groups  are available on a  [[https://docs.google.com/spreadsheets/d/1IFn56_q2D8sfBdZx9Idm4Pvy1nI8MEQJUamCiiHcFkE/edit?usp=sharing][Google sheet]] accessible from your ND account.  The Google sheet contains the email addresses and LinkedIn links of all the panelists.
+Each session, one group of 3-4 students will be responsible for managing the panel discussion, including introductions, questions and answers, and written summary. The topical areas, panelists, and your assigned groups  are available on a [[https://docs.google.com/spreadsheets/d/1cjuvP2S-zgWGZjiKhLU1Qg3ROS5dn2VucOxKP6T6Hpw/edit?usp=sharing][Google sheet]]  accessible from your ND account.  The Google sheet contains the email addresses and LinkedIn links of all the panelists.
 
 ** Panel agenda and tasks:
 1. Introduce yourselves
@@ -57,7 +57,6 @@ To do this well will take some preparation. I suggest the team meet to set some 
 - Introduce speaker 1 
 - Introduce speaker 2
 - Introduce speaker 3
-- Introduce speaker 4
 - Timer/wrap-up/thank you
 
 And work together on group roles:
@@ -72,7 +71,7 @@ The group will also want to prepare a set of questions, or script, to guide the 
 The group will take notes during the panel discussion and use them to annotate the prepared questions into a summary.
 
 ** Logistics
-Place your introductory slides in the class [[https://drive.google.com/drive/folders/1tC6bTIxFh_fRfUk-FdwIHLAv8rMCMje3?usp=sharing][Google folder]] by 8 am Friday of your panel session. Schneider will share those slides during the panel. Place your summary into the same folder by 8 am Monday following your session. 
+Place your introductory slides in the class [[https://drive.google.com/drive/folders/12p1B5icXV4FetwMoPTR7hkxTTPMj53qA?usp=sharing][Google folder]] by 9 am Friday of your panel session. Schneider will share those slides during the panel. Place your summary into the same folder by 8 am Monday following your session. 
 
 ** Graciousness
 Remember that the alumni are knowledgeable and eager to help you. Remember too that they are taking valuable time out of their day. Be well prepared, dress appropriately, be courteous, and be grateful. 

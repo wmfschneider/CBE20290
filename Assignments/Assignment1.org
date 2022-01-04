@@ -21,7 +21,7 @@
 #+LATEX_HEADER:\renewcommand{\headrulewidth}{0.5pt}
 #+LATEX_HEADER:\renewcommand{\footrulewidth}{0.5pt}
 #+LATEX_HEADER:\lfoot{\today}
-#+LATEX_HEADER:\cfoot{\copyright\ 2021 W.\ F.\ Schneider}
+#+LATEX_HEADER:\cfoot{\copyright\ 2022 W.\ F.\ Schneider}
 #+LATEX_HEADER:\rfoot{\thepage}
 #+LATEX_HEADER:\chead{\bf{Career Choices for Chemical Engineers (CBE 20290)\vspace{12pt}}}
 #+LATEX_HEADER:\lhead{\bf{Assignment 1}}
