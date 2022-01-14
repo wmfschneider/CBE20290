@@ -11,21 +11,21 @@ The course will be conducted in person in 136 DBRT.  Weeks 1-2 will focus on pro
 \noindent Shared course materials available on [[https://drive.google.com/drive/folders/12p1B5icXV4FetwMoPTR7hkxTTPMj53qA?usp=sharing][Google Drive]] and on [[https://github.com/wmfschneider/CBE20290][GitHub]].
 
 * Schedule
-| January 14  | Introduction/Resumes/Handshake         | [[https://www.linkedin.com/in/loriann-edinborough/][LoriAnn Edinborough]], Career Center |
-| January 21  | Interviewing                           | [[https://www.linkedin.com/in/loriann-edinborough/][LoriAnn Edinborough]], Career Center |
-| January 28  | Alumni Panel: Pharmaceuticals          | student interviewer team           |
-| February 4  | Alumni Panel: Chemicals                | student interviewer team           |
-| February 11 | Alumni Panel: Info Tech                | student interviewer team           |
-| February 18 | Alumni Panel: Consumer Goods           | student interviewer team           |
-| February 25 | Alumni Panel: Professional/Grad School | student interviewer team           |
-| March 2     | Alumni Panel: Oil & Gas                |                                    |
-| March 10    | Spring Break                           |                                    |
-| March 18    | Alumni Panel: Foods                    | student interviewer team           |
-| March 25    | Alumni Panel: Entrepreneurship         | student interviewer team           |
-| April 1     | Alumni Panel: Energy/Renewables        | student interviewer team           |
-| April 8     | Alumni Panel: Biotech                  | student interviewer team           |
-| April 15    | Good Friday                            |                                    |
-| April 22    | Alumni Panel: Consulting               | student interviewer team           |
+| January 14  | Course Introduction / [[./Resources/2022-CareerCenter-1.pdf][Career Center overview]] | [[https://www.linkedin.com/in/loriann-edinborough/][LoriAnn Edinborough]], Career Center |
+| January 21  | Interviewing                                 | [[https://www.linkedin.com/in/loriann-edinborough/][LoriAnn Edinborough]], Career Center |
+| January 28  | Alumni Panel: Pharmaceuticals                | student interviewer team           |
+| February 4  | Alumni Panel: Chemicals                      | student interviewer team           |
+| February 11 | Alumni Panel: Info Tech                      | student interviewer team           |
+| February 18 | Alumni Panel: Consumer Goods                 | student interviewer team           |
+| February 25 | Alumni Panel: Professional/Grad School       | student interviewer team           |
+| March 2     | Alumni Panel: Oil & Gas                      |                                    |
+| March 10    | Spring Break                                 |                                    |
+| March 18    | Alumni Panel: Foods                          | student interviewer team           |
+| March 25    | Alumni Panel: Entrepreneurship               | student interviewer team           |
+| April 1     | Alumni Panel: Energy/Renewables              | student interviewer team           |
+| April 8     | Alumni Panel: Biotech                        | student interviewer team           |
+| April 15    | Good Friday                                  |                                    |
+| April 22    | Alumni Panel: Consulting                     | student interviewer team           |
 
 [[https://calendar.google.com/calendar/u/0?cid=Y183NG02cDJnYWQ2NDQ4OTUzZGthaHJia2Nnc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t][Google course calendar]]      [[https://notredame.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=b93d46fc-da0a-4736-b7e1-acc1018685ee][Panopto recordings]] 
 
