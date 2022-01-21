@@ -12,7 +12,7 @@ The course will be conducted in person in 136 DBRT.  Weeks 1-2 will focus on pro
 
 * Schedule
 | January 14  | Course Introduction / [[./Resources/2022-CareerCenter-1.pdf][Career Center overview]] | [[https://www.linkedin.com/in/loriann-edinborough/][LoriAnn Edinborough]], Career Center |
-| January 21  | Interviewing                                 | [[https://www.linkedin.com/in/loriann-edinborough/][LoriAnn Edinborough]], Career Center |
+| January 21  | Career Panels / [[./Career-Center-Networking.pdf][Networking]]                   | [[https://www.linkedin.com/in/loriann-edinborough/][LoriAnn Edinborough]], Career Center |
 | January 28  | Alumni Panel: Pharmaceuticals                | student interviewer team           |
 | February 4  | Alumni Panel: Chemicals                      | student interviewer team           |
 | February 11 | Alumni Panel: Info Tech                      | student interviewer team           |
