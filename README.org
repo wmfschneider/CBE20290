@@ -11,29 +11,27 @@ The course will be conducted in person in 136 DBRT.  Weeks 1-2 will focus on pro
 \noindent Shared course materials available on [[https://drive.google.com/drive/folders/12p1B5icXV4FetwMoPTR7hkxTTPMj53qA?usp=sharing][Google Drive]] and on [[https://github.com/wmfschneider/CBE20290][GitHub]].
 
 * Schedule
-| January 14  | Course Introduction / [[./Resources/2022-CareerCenter-1.pdf][Career Center overview]] | [[https://www.linkedin.com/in/loriann-edinborough/][LoriAnn Edinborough]], Career Center |
-| January 21  | Career Panels / [[./Resources/Career-Center-Networking.pdf][Networking]]                   | [[https://www.linkedin.com/in/loriann-edinborough/][LoriAnn Edinborough]], Career Center |
-| January 28  | Alumni Panel: Pharmaceuticals                | student interviewer team           |
-| February 4  | Alumni Panel: Chemicals                      | student interviewer team           |
-| February 11 | Alumni Panel: Info Tech                      | student interviewer team           |
-| February 18 | Alumni Panel: Consumer Goods                 | student interviewer team           |
-| February 25 | Alumni Panel: Professional/Grad School       | student interviewer team           |
-| March 2     | Alumni Panel: Oil & Gas                      |                                    |
-| March 10    | Spring Break                                 |                                    |
-| March 18    | Alumni Panel: Foods                          | student interviewer team           |
-| March 25    | Alumni Panel: Entrepreneurship               | student interviewer team           |
-| April 1     | Alumni Panel: Energy/Renewables              | student interviewer team           |
-| April 8     | Alumni Panel: Biotech                        | student interviewer team           |
-| April 15    | Good Friday                                  |                                    |
-| April 22    | Alumni Panel: Consulting                     | student interviewer team           |
-
-[[https://calendar.google.com/calendar/u/0?cid=Y183NG02cDJnYWQ2NDQ4OTUzZGthaHJia2Nnc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t][Google course calendar]]      [[https://notredame.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=b93d46fc-da0a-4736-b7e1-acc1018685ee][Panopto recordings]] 
+| January 20  | Course Introduction / [[./Resources/2022-CareerCenter-1.pdf][Career Center overview]] | [[http://linkedin.com/in/chriswashko][Chris Washko]], Career Center |
+| January 27  | Career Panels Interviewing / [[./Resources/Career-Center-Networking.pdf][Networking]]      | [[https://www.linkedin.com/in/joe-plant-1ba4691/][Joe Plant]]   [[https://www.linkedin.com/in/frank-kelly-7a7109b/][Frank Kelly]]     |
+| February 3  | Alumni Panel: Professional/Grad School       | student interviewer team    |
+| February 10 | Alumni Panel: Oil & Gas                      | student interviewer team    |
+| February 17 | Alumni Panel: Foods                          | student interviewer team    |
+| February 24 | Alumni Panel: Chemicals                      | student interviewer team    |
+| March 3     | Alumni Panel: Pharmaceuticals                | student interviewer team    |
+| March 10    | Alumni Panel: Consumer Goods                 |                             |
+| March 17    | Spring Break                                 |                             |
+| March 24    | Alumni Panel: Entrepreneurship               | student interviewer team    |
+| March 31    | Alumni Panel: Consulting                     | student interviewer team    |
+| April 7     | Good Friday                                  |                             |
+| April 14    | Alumni Panel: Biotech                        | student interviewer team    |
+| April 21    | Alumni Panel: Info Tech                      | student interviewer team    |
+| April 28    | Alumni Panel: Energy/Renewable               | student interviewer team    |
 
 * Assignments 
-| Due January 10 | [[https://forms.gle/TsqC2PDdJU14JwN49][Career Reflection]]   |     |
-| Due January 17 | [[https://forms.gle/yRDjwjk5mkxFGZTt8][Interview questions]] |     |
+| Due January 18 | [[https://forms.gle/395K9j9xREVQg88NA][Career Reflection]]   |     |
+| Due January 25 | [[https://forms.gle/fRgPeqDvfJ78tRaY9][Interview Questions]] |     |
 | Rolling basis  | [[./Assignments/Interview.org][Career Panel]]        | [[./Assignments/Interview.pdf][pdf]] |
-| Due April 29   | [[https://forms.gle/GjdNjfbhfEXnvLEF6][Final Reflection]]    |     |
+| Due May 5      | [[https://forms.gle/GjdNjfbhfEXnvLEF6][Final Reflection]]    |     |
 
 * Grading
 The course is graded S/U. To receive an S, you must complete all assignments.
