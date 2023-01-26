@@ -1,4 +1,4 @@
-#+BEGIN_OPTIONS
+'#+BEGIN_OPTIONS
 #+AUTHOR: William F. Schneider
 #+TITLE: CBE 20290  Syllabus
 #+EMAIL: wschneider@nd.edu
@@ -86,11 +86,14 @@ The course will be conducted in person in 136 DBRT.  Weeks 1-2 will focus on pro
 * Assignments 
 | Due January 18 | [[https://forms.gle/395K9j9xREVQg88NA][Career Reflection]]   |
 | Due January 25 | [[https://forms.gle/fRgPeqDvfJ78tRaY9][Interview Questions]] |
-| Rolling basis  | [[https://drive.google.com/drive/folders/12p1B5icXV4FetwMoPTR7hkxTTPMj53qA?usp=sharing][Career Panel]]        |
-| Due May 5      | [[https://forms.gle/GjdNjfbhfEXnvLEF6][Final Reflection]]    |
+| Rolling basis  | [[https://drive.google.com/drive/folders/1r_wSSi8Jvphhkkfh8ujKThlI-RCvBMRM?usp=share_link][Career Panel]]        |
+| Due May 5      | [[https://forms.gle/RKgMz2pRvyeByRZb9][Final Reflection]]    |
+
+* Participation
+Attendance, attention, and participation are expected at all sessions. Laptops will be closed for all save those doing the interviewing.
 
 * Grading
-The course is graded S/U. To receive an S, you must complete all assignments.
+The course is graded S/U. To receive an S, you must complete all assignments and attend all sessions.
 
 * Mental Health
 Care and Wellness Consultants provide support and resources to students who are experiencing stressful or difficult situations that may be interfering with academic progress. Through Care and Wellness Consultants, students can be referred to The University Counseling
